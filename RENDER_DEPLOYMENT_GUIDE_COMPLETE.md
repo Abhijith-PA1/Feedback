@@ -111,9 +111,9 @@ You'll see logs like:
 **Build takes 3-5 minutes**
 
 ### Step 9: Verify Deployment
-1. Once deployed, you'll see a URL like: `https://feedback-api.onrender.com`
+1. Once deployed, you'll see a URL like: `https://feedback-backend-x85o.onrender.com`
 2. Click on the URL
-3. Test an endpoint: `https://feedback-api.onrender.com/api/auth/login`
+3. Test an endpoint: `https://feedback-backend-x85o.onrender.com/api/auth/login`
 
 ---
 
@@ -125,7 +125,7 @@ If you have a frontend, update the API URL:
 1. Open `frontend/.env.production`
 2. Update:
    ```
-   VITE_API_URL=https://feedback-api.onrender.com
+   VITE_API_URL=https://feedback-backend-x85o.onrender.com
    ```
 3. Commit and push changes
 
@@ -182,7 +182,7 @@ For production use, consider:
 ## Quick Reference
 
 **Your URLs:**
-- Backend API: `https://feedback-api.onrender.com`
+- Backend API: `https://feedback-backend-x85o.onrender.com`
 - Database: Internal connection via DATABASE_URL
 
 **Important Commands:**
