@@ -17,3 +17,14 @@ services:
         fromDatabase:
           name: feedback-db
           property: connectionString
+
+  # Frontend Service
+  - type: web
+    name: feedback-frontend
+    env: static
+    region: oregon
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://feedback-backend-x85o.onrender.com
