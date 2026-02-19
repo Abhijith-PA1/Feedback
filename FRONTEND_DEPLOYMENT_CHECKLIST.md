@@ -47,7 +47,7 @@
 
 ## Verification (2 minutes)
 
-- [ ] Frontend loads: `https://feedback-frontend.onrender.com`
+- [ ] Frontend loads: `https://feedback-frontend-3mdn.onrender.com`
 - [ ] Can navigate between pages
 - [ ] Signup works
 - [ ] Login works
@@ -76,7 +76,7 @@
 ## Done! 🎉
 
 Your app is now fully deployed:
-- **Frontend:** https://feedback-frontend.onrender.com
+- **Frontend:** https://feedback-frontend-3mdn.onrender.com
 - **Backend:** https://feedback-backend-x85o.onrender.com
 
 Test it and share with users! 🚀

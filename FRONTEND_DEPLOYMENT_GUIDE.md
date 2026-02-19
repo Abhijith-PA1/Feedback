@@ -58,7 +58,7 @@ Click **"Add Environment Variable"**:
 ### Step 6: Wait for Deployment
 - Build takes 2-3 minutes
 - Watch the logs for any errors
-- Once complete, you'll get a URL like: `https://feedback-frontend.onrender.com`
+- Once complete, you'll get a URL like: `https://feedback-frontend-3mdn.onrender.com`
 
 ---
 
@@ -77,7 +77,7 @@ The `render.yaml` file has been updated to include frontend configuration.
 ## Verification Steps
 
 ### Step 1: Test Your Frontend
-1. Open your frontend URL: `https://feedback-frontend.onrender.com`
+1. Open your frontend URL: `https://feedback-frontend-3mdn.onrender.com`
 2. You should see your app's homepage
 
 ### Step 2: Test Backend Connection
@@ -279,7 +279,7 @@ frontend
 
 ## Your Deployed URLs
 
-**Frontend:** `https://feedback-frontend.onrender.com` (after deployment)
+**Frontend:** `https://feedback-frontend-3mdn.onrender.com`
 **Backend:** `https://feedback-backend-x85o.onrender.com`
 **Database:** Connected via DATABASE_URL
 
@@ -307,7 +307,7 @@ If you encounter issues:
 Follow the steps above and your frontend will be live in minutes!
 
 Your complete app will be accessible at:
-- **Frontend:** https://feedback-frontend.onrender.com
+- **Frontend:** https://feedback-frontend-3mdn.onrender.com
 - **Backend API:** https://feedback-backend-x85o.onrender.com
 
 Good luck! 🚀

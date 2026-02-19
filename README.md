@@ -2,6 +2,11 @@
 
 A full-stack feedback management application with AI sentiment analysis, built with React, Flask, and Machine Learning.
 
+## 🌐 Live Demo
+
+**Frontend:** https://feedback-frontend-3mdn.onrender.com
+**Backend API:** https://feedback-backend-x85o.onrender.com
+
 ---
 
 ## 📋 Table of Contents
