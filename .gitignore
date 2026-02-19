@@ -1,0 +1,29 @@
+# Root .gitignore
+
+# Backend
+backend/__pycache__/
+backend/venv/
+backend/instance/
+backend/*.db
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Reports (optional - uncomment if you don't want to track these)
+# VERIFICATION_REPORT.md
+# CLEANUP_REPORT.md
+# QUICK_START.md
